@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorHighPriority">#FF0000</color> <!-- Color rojo -->
+    <color name="colorMediumPriority">#FFFF00</color> <!-- Color amarillo -->
+    <color name="colorLowPriority">#0000FF</color> <!-- Color azul -->
+</resources>

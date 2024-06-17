@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339797177341",
+    "project_id": "myflux-c151f",
+    "storage_bucket": "myflux-c151f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339797177341:android:494c573e843ed829749f94",
+        "android_client_info": {
+          "package_name": "com.example.myflux10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2LGADCe7409a2UoOUWzgZIO5ifbEADvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339797177341:android:8aad8208ad2fb9b7749f94",
+        "android_client_info": {
+          "package_name": "com.example.myfluxv06"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2LGADCe7409a2UoOUWzgZIO5ifbEADvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

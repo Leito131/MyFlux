@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- River Background Path -->
+    <path
+        android:fillColor="#4FC3F7"
+        android:pathData="M3,21v-2c1.4,-1.4 3.2,-1.4 4,0c1,1.5 3.8,1.5 4,0c1,-1.5 3.8,-1.5 4,0c1,1.4 2.6,1.4 4,0v2H3zM3,13v-2c1.4,-1.4 3.2,-1.4 4,0c1,1.5 3.8,1.5 4,0c1,-1.5 3.8,-1.5 4,0c1,1.4 2.6,1.4 4,0v2H3zM3,5v-2c1.4,-1.4 3.2,-1.4 4,0c1,1.5 3.8,1.5 4,0c1,-1.5 3.8,-1.5 4,0c1,1.4 2.6,1.4 4,0v2H3z" />
+
+    <!-- Letter M -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M7,16v-8h2l1,2l1,-2h2v8h-2v-4l-1,2l-1,-2v4H7z" />
+
+    <!-- Letter F -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M15,16v-8h4v2h-2v2h2v2h-2v2h-2z" />
+</vector>
+
+
